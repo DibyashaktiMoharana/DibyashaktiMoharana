@@ -22,3 +22,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyashaktimoharana&" alt="dibyashaktimoharana" /></p>
 
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=Dibyashakti&button_colour=FFDD00&font_colour=000000&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/Dibyashakti)
+
