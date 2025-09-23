@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyashaktimoharana&label=Profile%20views&color=0e75b6&style=flat" alt="dibyashaktimoharana" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibyashaktimoharana" alt="dibyashaktimoharana" /></a> </p>
 
 - 🔭 I’m currently working on **Nextjs project.**
 
@@ -22,5 +21,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyashaktimoharana&" alt="dibyashaktimoharana" /></p>
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
+<br>
 [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=Dibyashakti&button_colour=FFDD00&font_colour=000000&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/Dibyashakti)
 
