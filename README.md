@@ -91,12 +91,11 @@
 
 [![@Dibya's Holopin board](https://holopin.me/DibyashaktiMoharana)](https://holopin.io/@DibyashaktiMoharana)
 
+## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DibyashaktiMoharana&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <br>
 <br>
