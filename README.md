@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dibyashakti Moharana</h1>
-<h3 align="center">A curious developer, always learning and building.<br><s>Public repos? Just the tip of the iceberg.</s></h3>
+<!-- <h1 align="center">Hi 👋, I'm Dibyashakti Moharana</h1> -->
 
+<img width="1014" height="210" alt="image" src="https://github.com/user-attachments/assets/68b4eec1-ce74-4a67-8ec1-19e595ceb9c9" />
+<h3 align="center">A curious developer, always learning and building.<br><s>Public repos? Just the tip of the iceberg.</s></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyashaktimoharana&label=Profile%20views&color=0e75b6&style=flat" alt="dibyashaktimoharana" /> </p>
 
 
